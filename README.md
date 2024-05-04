@@ -1,4 +1,4 @@
-:thought_balloon: Momentumm in stocks .
+:thought_balloon: Momentumm in  stocks . **NSE/BSE**
 
 Papers used :
 
@@ -8,11 +8,13 @@ Papers used :
 
 3.  [A study of contrarian and momentum profits in Indian stock market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2785541)
 
->[!NOTE] 
+>[!NOTE]
 > Key idea for implementation stems out from paper<sup>1</sup>.
 
 - [x] Backtest Implementation . :tada:
-- [ ] Backtesting on previous data .
+- [ ] Backtesting on previous data . 
+
+      
 
 
 
